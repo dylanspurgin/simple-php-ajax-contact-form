@@ -1,7 +1,7 @@
 {
     "name": "dylanspurgin/simple-php-ajax-contact-form",
     "require": {
-        "phpmailer/phpmailer": "^5.2"
+        "phpmailer/phpmailer": "^6.1"
     },
     "authors": [
         {
