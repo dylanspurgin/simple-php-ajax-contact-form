@@ -76,7 +76,7 @@
 
     function sendFailureResponse ($emailConfig) {
         http_response_code(500);
-        $result = array('error message' => $emailConfig->errorMessage);
+        $result = array('result' => 'error', 'message' => $emailConfig->errorMessage);
         echo json_encode($result);
     }
 

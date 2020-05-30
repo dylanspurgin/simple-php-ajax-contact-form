@@ -1,5 +1,5 @@
 {
-    "name": "dylanspurgin/dylanspurgin.com",
+    "name": "dylanspurgin/simple-php-ajax-contact-form",
     "require": {
         "phpmailer/phpmailer": "^5.2"
     },
